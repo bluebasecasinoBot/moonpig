@@ -55,7 +55,7 @@ __SYD.container = () =>{
             __SYD._p2(),
             __SYD._p3(),
             __SYD._p4(),
-            __c('p',{style:'font-size: 1.2rem;line-height: 1.75rem;text-align:left;font-weight:800;width:100%;max-width:1000px;padding:50px 20px;text-align:center;'},[
+            __c('p',{style:'align-self:center;text-align:center;font-size: 1.2rem;line-height: 1.75rem;text-align:left;font-weight:800;width:100%;max-width:1000px;padding:50px 20px;text-align:center;'},[
                 `Moonpig is a meme coin with no inherent value or promise of financial return. There is no official team or roadmap. The coin serves no practical purpose and is intended solely for entertainment.`//,__c('span',{class:'rainbow__text'},[" $TEFE"])
             ]),
             // __SYD._p5(),
