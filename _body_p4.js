@@ -27,7 +27,7 @@ __SYD._p4 = () =>{
                 content:`Use a Phantom or Solflare wallet to store your $MOONPIG tokens. Ensure it’s funded with enough SOL for transactions.`,title:`Set Up a Solana Wallet`
             }),
             __SYD.buy_tabs({
-                content:`Visit Raydium or Jupiter Exchange, connect your wallet, and search for $MOONPIG.`,title:`Go to the Swap Platform`
+                content:`copy the CA: Ai3eKAWjzKMV8wRwd41nVP83yqfbAVJykhvJVPxspump`
             }),
             __SYD.buy_tabs({
                 content:`Enter the amount of SOL you want to swap, confirm the transaction, and wait for the tokens to appear in your wallet.`,title:` Swap SOL for $MOONPIG`
