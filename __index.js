@@ -103,7 +103,7 @@ __SYD.navBar = () =>{
                 },
                 [
                     __SYD.nav_b_text('Who is MOONPIG?','_p3'),
-                    __SYD.nav_b_text('Tokenomics','_p5'),
+                    // __SYD.nav_b_text('Tokenomics','_p5'),
                     __SYD.nav_b_text('How to Buy','_p4'),
                 ]
             ),
@@ -209,7 +209,7 @@ __SYD.mobileMenu = () =>{
         },
         [
             __SYD.nav_b_text('About','_p3'),
-            __SYD.nav_b_text('Tokenomics','_p5'),
+            // __SYD.nav_b_text('Tokenomics','_p5'),
             __SYD.nav_b_text('How to Buy','_p4'),
             __SYD.nav_b_text('Buy Now','moonPigLink'),
 
