@@ -161,6 +161,6 @@ __SYD.freeText_def_small = (text) =>{
 
 __SYD.about_text_p2= () =>{
     return __c('p',{style:'font-size: 1.2rem;line-height: 1.75rem;text-align:left;font-weight:800;width:100%;text-align:center;'},[
-        `$MOON PIG isn’t just a meme coin—it’s a rocket-powered oinker destined for the cosmos! Saddle up, swine squad, we’re taking bacon to the moon! 🚀🌕`//,__c('span',{class:'rainbow__text'},[" $TEFE"])
+        `Moonpig is a meme coin with no inherent value or promise of financial return. There is no official team or roadmap. The coin serves no practical purpose and is intended solely for entertainment.`//,__c('span',{class:'rainbow__text'},[" $TEFE"])
     ])
 }
