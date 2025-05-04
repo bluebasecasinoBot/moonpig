@@ -55,7 +55,7 @@ __SYD.container = () =>{
             __SYD._p2(),
             __SYD._p3(),
             __SYD._p4(),
-            __SYD._p5(),
+            // __SYD._p5(),
             __c(
                 'div',
                 {
