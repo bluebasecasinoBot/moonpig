@@ -71,7 +71,7 @@ __SYD.buy_tabs = ({title = '' , content = ''}) =>{
                         },
                         [
                             __c('p',{style:'font-size:28px;text-align:left;text-transform:capitalize;color:#FFD6A5;font-family:sunrise;font-weight:900;margin-bottom:15px;line-height:150%;'},[title]),
-                            __c('p',{style:'font-size: 1.2rem;line-height: 1.75rem;text-align:left;font-weight:500;color:#F1F1F1'},[
+                            __c('p',{style:'font-size: 1.2rem;line-height: 1.2rem;text-align:left;font-weight:500;color:#F1F1F1'},[
                                 content
                             ])
                         ]
